@@ -1,12 +1,12 @@
 {
     "manifestVersion": 1,
-    "id": "samples",
-    "publisher": "",
-    "version": "1.0.464",
+    "id": "jdswihelper",
+    "publisher": "JDsExtensions",
+    "version": "1.0.54",
     "name": "Extension Sample",
     "description": "Azure DevOps extension sample",
     "categories": [
-        "Azure Pipelines"
+        "Azure Boards"
     ],
     "targets": [
         {
@@ -22,10 +22,6 @@
         }
     },
     "files": [
-        {
-            "path": "static",
-            "addressable": true
-        },
         {
             "path": "dist",
             "addressable": true

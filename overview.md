@@ -1,1 +1,1 @@
-Sample Azure DevOps extension
+Azure DevOps Sample Extension
